@@ -3,11 +3,16 @@
 
 A fun and interactive quiz web app built using HTML, CSS, and JavaScript. Users can test their knowledge across various topics!
 
+## Demo Video
+(Check here to view the live site)
+[https://quiz-lab-pi.vercel.app/]
+
+
 ##  Features
 - Start and next question buttons
 - Multiple-choice questions
 - Real-time score tracking
-- Shuffled questions each game
+- Shuffled questions in each game
 - Responsive design
 
 ##  Technologies Used
